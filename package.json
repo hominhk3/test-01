@@ -1,0 +1,22 @@
+{
+  "name": "minhmummim",
+  "version": "1.0.0",
+  "description": "this is example about minhmummim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hominhk3/test-01.git#master"
+  },
+  "author": "hominhk3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hominhk3/test-01/issues"
+  },
+  "homepage": "https://github.com/hominhk3/test-01/tree/master#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
